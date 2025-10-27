@@ -1,18 +1,29 @@
-# React + Vite
+🚀 Project Title:
+Open Source GitHub Project Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎯 Objective:
 
-Currently, two official plugins are available:
+Build a responsive React dashboard that explores trending GitHub repositories with advanced filters and visualizations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧰 Tools & Technologies:
 
-## React Compiler
+Frontend: React.js + Tailwind CSS
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+API: GitHub REST API (https://api.github.com
+)
 
-Note: This will impact Vite dev & build performances.
+Charts: Chart.js (via react-chartjs-2)
 
-## Expanding the ESLint configuration
+State Management: useState + useEffect
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Extras (Optional): Local Storage (for bookmarks/notes)
+
+✅ Features Recap
+Feature	Description
+🔍 Search	Search repositories by keyword
+🌟 Sort	Sort by stars, updated date
+🏷️ Filter	Filter by language or topic
+📊 Charts	Show stars or issues via Chart.js
+💾 Bookmark	Save favorite repos locally
+📝 Notes	Add personal notes to bookmarked repos
+
