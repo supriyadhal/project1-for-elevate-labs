@@ -26,6 +26,6 @@ Feature	Description
 📊 Charts	Show stars or issues via Chart.js
 💾 Bookmark	Save favorite repos locally
 📝 Notes	Add personal notes to bookmarked repos
-![image](Screenshot 2025-10-27 173129_Screenshot 2025-10-27 173058_Screenshot 2025-10-27 173027.jpeg)
+![image]()
 
 
