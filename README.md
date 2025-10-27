@@ -26,6 +26,6 @@ Feature	Description
 📊 Charts	Show stars or issues via Chart.js
 💾 Bookmark	Save favorite repos locally
 📝 Notes	Add personal notes to bookmarked repos
-![image]()
+![image](https://github.com/supriyadhal/project1-for-elevate-labs/blob/main/Screenshot%202025-10-27%20173129_Screenshot%202025-10-27%20173058_Screenshot%202025-10-27%20173027.jpeg?raw=true)
 
 
